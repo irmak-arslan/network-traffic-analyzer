@@ -28,6 +28,27 @@ exploring network packets and exporting analysis reports.
 - JSON security report export
 - Automated testing with pytest
 
+
+## Dashboard Preview
+
+NetScope provides an interactive security dashboard for
+analyzing network traffic and visualizing packet statistics.
+
+![NetScope Security Dashboard](screenshots/dashboard.png)
+
+## Security Detection
+
+NetScope identifies potentially suspicious network behavior
+using configurable rule-based detection techniques.
+
+The dashboard highlights potential port scanning and
+unusually high packet volumes.
+
+![NetScope Security Analysis](screenshots/security-analysis.png)
+
+Security findings are heuristic indicators and do not
+necessarily represent confirmed attacks.
+
 ## Tech Stack
 
 - Python
